@@ -1,10 +1,6 @@
-# HOGFusion
+# Structure Reliability Guided Multi-Modal Image Fusion for Universal-Degraded Drone Imagery
 
-Official repository for **HOGFusion**, an end-to-end degradation-robust infrared and visible image fusion framework for drone imagery.
-
-This project focuses on infrared-visible image fusion under complex degraded drone scenarios. In the current version, we release the constructed **MCMD-DroneVehicle** benchmark dataset. 
-
-The source code of HOGFusion will be released after the paper is accepted.
+The source code will be released after the paper is accepted.
 
 ## News
 
@@ -29,6 +25,9 @@ The **MCMD-DroneVehicle** dataset is publicly available on Baidu Netdisk.
 ## License
 
 The dataset is released for academic research only. Commercial use is not permitted without permission.
+
+## Acknowledgement
+We thank the authors of HOGFormer, DroneVehicle for their open-source contributions.
 
 ## Contact
 

@@ -1,4 +1,4 @@
-# Structure Reliability Guided Multi-Modal Image Fusion for Universal-Degraded Drone Imagery
+# Structure Reliability Guided Infrared-Visible Image Fusion for Multi-Degradation Drone Imagery
 
 The source code will be released after the paper is accepted.
 
